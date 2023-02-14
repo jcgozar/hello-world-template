@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Hello World
+  name: hello-world
   annotations:
     github.com/project-slug: jcgozar/hello-world-template
 spec:
