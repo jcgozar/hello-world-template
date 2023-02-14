@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-sample-templates
+  name: Hello World
   annotations:
-    github.com/project-slug: jcgozar/backstage-sample-templates
+    github.com/project-slug: jcgozar/hello-world-template
 spec:
   type: other
   lifecycle: dev
