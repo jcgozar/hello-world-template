@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-sample-templates
+  annotations:
+    github.com/project-slug: jcgozar/backstage-sample-templates
+spec:
+  type: other
+  lifecycle: dev
+  owner: user:guest
